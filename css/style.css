@@ -430,6 +430,7 @@ a: visited {
 	color: #fff;
 }
 
+.feat-auth,
 .feat-auth:visited {
 	color: #bbb;
 }
