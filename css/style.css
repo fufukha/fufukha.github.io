@@ -349,7 +349,7 @@ Footer
 }
 
 .footer-wrapper-bottom {
-	width: 4%;
+	width: 45%;
 	display: inline-block;
 }
 
@@ -415,6 +415,7 @@ a: visited {
 }
 
 .feat-cat:hover,
+.feat-title,
 .feat-title:visited {
 	color: #333;
 }
